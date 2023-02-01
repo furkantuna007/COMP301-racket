@@ -1,0 +1,1 @@
+("8.6" ta6nt ("fa32ef9a2f919557ff1f41374ae7ab7742afba79" . "a5b173a395bc0d6233919617863f5506d08cd1b6") (collects #"errortrace" #"errortrace-key.rkt") (collects #"mzlib" #"pretty.rkt") (collects #"mzlib" #"trace.rkt") (collects #"mzscheme" #"main.rkt"))
